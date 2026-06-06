@@ -10,7 +10,7 @@ I've started to learn coding and I am more interested in designing and exploring
 * ✉️  You can contact me at [hpjadhav3000@gmail.com](mailto:hpjadhav3000@gmail.com)
 * 🧠  I'm currently learning Javascript and Python
 * 💬  My Hobbies are to play games, sports, read books and create new things
-* 🖥️  See my portfolio at [Informal Portfolio](http://https://harshooit.github.io/)
+* 🖥️  See my portfolio at [Informal Portfolio](https://harshooit.github.io/)
 
 
 <p align="left">
