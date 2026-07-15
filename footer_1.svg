@@ -1,0 +1,44 @@
+<svg width="1200" height="110" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4CC9F0"/>
+      <stop offset="50%" stop-color="#3A0CA3"/>
+      <stop offset="100%" stop-color="#0A0E27"/>
+    </linearGradient>
+    <linearGradient id="fwaveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F72585" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#7209B7" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .fwave-1 { animation: fwaveScroll 10s linear infinite; }
+    .fwave-2 { animation: fwaveScroll 16s linear infinite reverse; }
+    @keyframes fwaveScroll {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-1200px); }
+    }
+    .fspark { animation: ftwinkle 3.5s ease-in-out infinite; }
+    @keyframes ftwinkle {
+      0%, 100% { opacity: 0.15; }
+      50% { opacity: 0.85; }
+    }
+  </style>
+
+  <rect width="1200" height="110" fill="url(#fgGrad)"/>
+
+  <circle class="fspark" cx="150" cy="30" r="1.8" fill="#FFFFFF" style="animation-delay:0.2s"/>
+  <circle class="fspark" cx="500" cy="20" r="1.5" fill="#4CC9F0" style="animation-delay:1.2s"/>
+  <circle class="fspark" cx="850" cy="35" r="2" fill="#F72585" style="animation-delay:0.7s"/>
+  <circle class="fspark" cx="1050" cy="18" r="1.6" fill="#FFFFFF" style="animation-delay:1.8s"/>
+
+  <g class="fwave-1">
+    <path d="M0,25 C75,5 150,45 225,25 C300,5 375,45 450,25 C525,5 600,45 675,25 C750,5 825,45 900,25 C975,5 1050,45 1125,25 C1200,5 1200,25 1200,25 L1200,0 L0,0 Z" fill="url(#fwaveGrad)"/>
+    <path d="M1200,25 C1275,5 1350,45 1425,25 C1500,5 1575,45 1650,25 C1725,5 1800,45 1875,25 C1950,5 2025,45 2100,25 C2175,5 2250,45 2325,25 C2400,5 2400,25 2400,25 L2400,0 L1200,0 Z" fill="url(#fwaveGrad)"/>
+  </g>
+
+  <g class="fwave-2">
+    <path d="M0,15 C100,30 200,0 300,15 C400,30 500,0 600,15 C700,30 800,0 900,15 C1000,30 1100,0 1200,15 L1200,0 L0,0 Z" fill="#FFFFFF" opacity="0.12"/>
+    <path d="M1200,15 C1300,30 1400,0 1500,15 C1600,30 1700,0 1800,15 C1900,30 2000,0 2100,15 C2200,30 2300,0 2400,15 L2400,0 L1200,0 Z" fill="#FFFFFF" opacity="0.12"/>
+  </g>
+</svg>
