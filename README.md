@@ -1,84 +1,112 @@
-<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Harshit Prabhakar Jadhav</h1>
+<div align="center">
 
-### Electronics & Communication Engineering Student | Junior Programmer | AI Agent Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Harshit%20Prabhakar%20Jadhav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=55&descAlign=50" width="100%"/>
 
-I've started learning to code and I'm most excited about designing and exploring new stuff — lately that means building with AI agent frameworks.
+<a href="https://harshooit.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:hpjadhav3000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harshit-jadhav-429960357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.com/users/harsho_oit"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
-- 🌍 Based in Pune, India
-- ✉️ Reach me at [hpjadhav3000@gmail.com](mailto:hpjadhav3000@gmail.com)
-- 🧠 Currently learning **Python**, **Git/GitHub**, and agentic AI frameworks like **LangGraph**, **CrewAI**, and **BeeAI**
-- 💬 Hobbies: gaming, sports, reading, and building new things
-- 🖥️ Portfolio: [harshooit.github.io](https://harshooit.github.io/)
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=Junior+Programmer+%7C+AI+Agent+Enthusiast;Learning+Python+%2C+Git+%26+Agentic+AI+Frameworks;Exploring+LangGraph+%2C+CrewAI+%26+BeeAI;Always+Building%2C+Always+Curious+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+</div>
 
 <br/>
 
+## 👋 About Me
+
+<img align="right" width="230" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+
+- 🔭 An ECE student who fell in love with programming and design
+- 🤖 Currently exploring **agentic AI frameworks** — LangGraph, CrewAI, and BeeAI
+- 🌱 Learning **Python** and sharpening my **Git & GitHub** workflow
+- 🎮 When I'm not coding: gaming, sports, reading, and building random side projects
+- 🌍 Based in Pune, India
+- 📫 Reach me at **hpjadhav3000@gmail.com**
+
+<br clear="right"/>
+
 ## 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" alt="GitHub" title="GitHub" width="36" height="36" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
-</p>
+<div align="center">
 
-**Exploring AI Agent Frameworks:**
+**Languages & Tools**
 
-<p align="left">
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge" alt="CrewAI"/>
-<img src="https://img.shields.io/badge/BeeAI-F5A623?style=for-the-badge" alt="BeeAI"/>
-</p>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+**Cloud & Backend**
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+**AI Agent Frameworks**
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/BeeAI-F5A623?style=for-the-badge&logo=beelinguapp&logoColor=white" />
+
+**Creative Suite**
+
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+
+</div>
 
 <br/>
 
 ## 📊 GitHub Stats
 
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshooit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harshit's GitHub stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=harshooit&theme=tokyonight&hide_border=true" alt="Harshit's GitHub streak"/>
-</p>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshooit&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7" alt="Harshit's GitHub stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=harshooit&theme=radical&hide_border=true&background=0D1117&stroke=00C9A7&ring=00C9A7&fire=00C9A7" alt="Harshit's GitHub streak"/>
+</div>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshooit&layout=compact&theme=tokyonight&hide_border=true" alt="Harshit's top languages"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshooit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7" alt="Harshit's top languages"/>
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshooit&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" alt="trophies"/>
+
+</div>
 
 <br/>
 
-## 🌐 Socials
+<div align="center">
 
-<p align="left">
-<a href="https://www.github.com/harshooit" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-</picture>
-</a>
-<a href="https://www.linkedin.com/in/harshit-jadhav-429960357/" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-</picture>
-</a>
-<a href="https://www.youtube.com/@harsh0_0it" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" />
-</picture>
-</a>
-<a href="https://discord.com/users/harsho_oit" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
-</picture>
-</a>
-</p>
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshooit&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9A7&line=00C9A7&point=ffffff" alt="activity graph" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+<a href="https://www.github.com/harshooit" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/harshit-jadhav-429960357/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/@harsh0_0it" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://discord.com/users/harsho_oit" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=harshooit&color=00C9A7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
