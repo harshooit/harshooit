@@ -1,0 +1,13 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0E27"/>
+      <stop offset="50%" stop-color="#3A0CA3"/>
+      <stop offset="100%" stop-color="#4CC9F0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#bgGrad)"/>
+  <path d="M0,190 C300,230 900,150 1200,190 L1200,220 L0,220 Z" fill="#00000022"/>
+  <text x="600" y="105" font-family="Segoe UI, Verdana, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">Harshit Prabhakar Jadhav</text>
+  <text x="600" y="145" font-family="Segoe UI, Verdana, sans-serif" font-size="20" fill="#D6D9F5" text-anchor="middle">Electronics &amp; Communication Engineering Student</text>
+</svg>
