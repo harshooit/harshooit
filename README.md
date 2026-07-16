@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=4CC9F0&background=00000000&center=true&vCenter=true&width=650&lines=Junior+Programmer+%7C+AI+Agent+Enthusiast;Learning+Python+%26+Agentic+AI+Frameworks;Exploring+LangGraph%2C+CrewAI+%26+BeeAI;Always+Building%2C+Always+Curious+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=4CC9F0&background=00000000&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer+%7C+AI+Agent+Enthusiast;Learning+Python+%26+Agentic+AI+Frameworks;Exploring+LangGraph%2C+CrewAI+%26+BeeAI;Always+Building%2C+Always+Curious+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -23,44 +23,42 @@
 
 ## 👋 About Me
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
+<p align="center">
+<i>An Electronics &amp; Communication Engineering student with a genuine curiosity for how<br/>
+things work — and an even stronger urge to build my own version of them.</i>
+</p>
 
-An **ECE student** who fell in love with programming and design — I like figuring out how things work and then making my own version of them.
+<br/>
 
-- 🤖 Currently exploring **agentic AI frameworks** — LangGraph, CrewAI, and BeeAI
-- 🌱 Learning **Python** and sharpening my **Git &amp; GitHub** workflow
-- 🎨 Also comfortable in **Photoshop** and **Premiere Pro** for creative work
-- 🎮 Off the keyboard: gaming, sports, reading, and building random side projects
-- 📫 Reach me any time at **hpjadhav3000@gmail.com**
+- 🤖&nbsp;&nbsp;Currently exploring **agentic AI frameworks** — LangGraph, CrewAI, and BeeAI
 
-</td>
-<td width="42%" valign="top">
+- 🌱&nbsp;&nbsp;Learning **Python** and steadily refining my **Git &amp; GitHub** workflow
+
+- 🎨&nbsp;&nbsp;Also comfortable in **Photoshop** and **Premiere Pro** for creative work
+
+- 🎮&nbsp;&nbsp;Away from the keyboard, you'll find me gaming, following sports, reading, or tinkering on side projects
+
+- 📫&nbsp;&nbsp;Always happy to connect — **hpjadhav3000@gmail.com**
+
+<br/>
 
 <div align="center">
 
-|  |  |
-|---|---|
-| 🌍 **Location** | Pune, India |
-| 🎓 **Field** | Electronics &amp; Communication Engineering |
-| 💻 **Focus** | Python · AI Agents |
-| 🧭 **Status** | Open to learning opportunities |
+<img src="https://img.shields.io/badge/Location-Pune%2C%20India-1B263B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Field-Electronics%20%26%20Communication%20Engineering-1B263B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Python%20%26%20AI%20Agents-1B263B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Learning%20Opportunities-1B263B?style=flat-square"/>
 
 </div>
 
-</td>
-</tr>
-</table>
-
-<br/>
+<div align="center"><img src="./divider.svg" width="70%"/></div>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 <table>
-<tr><td align="center"><sub><b>LANGUAGES &amp; TOOLS</b></sub></td></tr>
+<tr><td align="center"><sub><b>💻 LANGUAGES &amp; TOOLS</b></sub></td></tr>
 <tr><td align="center">
 <img src="https://img.shields.io/badge/C-0077B6?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-0077B6?style=for-the-badge&logo=python&logoColor=white" />
@@ -70,7 +68,7 @@ An **ECE student** who fell in love with programming and design — I like figur
 </td></tr>
 
 <tr><td height="10"></td></tr>
-<tr><td align="center"><sub><b>CLOUD &amp; BACKEND</b></sub></td></tr>
+<tr><td align="center"><sub><b>☁️ CLOUD &amp; BACKEND</b></sub></td></tr>
 <tr><td align="center">
 <img src="https://img.shields.io/badge/Firebase-3A86FF?style=for-the-badge&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3A86FF?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -78,7 +76,7 @@ An **ECE student** who fell in love with programming and design — I like figur
 </td></tr>
 
 <tr><td height="10"></td></tr>
-<tr><td align="center"><sub><b>AI AGENT FRAMEWORKS</b></sub></td></tr>
+<tr><td align="center"><sub><b>🤖 AI AGENT FRAMEWORKS</b></sub></td></tr>
 <tr><td align="center">
 <img src="https://img.shields.io/badge/LangGraph-7209B7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CrewAI-7209B7?style=for-the-badge" />
@@ -86,7 +84,7 @@ An **ECE student** who fell in love with programming and design — I like figur
 </td></tr>
 
 <tr><td height="10"></td></tr>
-<tr><td align="center"><sub><b>CREATIVE SUITE</b></sub></td></tr>
+<tr><td align="center"><sub><b>🎨 CREATIVE SUITE</b></sub></td></tr>
 <tr><td align="center">
 <img src="https://img.shields.io/badge/Premiere%20Pro-4CC9F0?style=for-the-badge&logo=adobepremierepro&logoColor=black" />
 <img src="https://img.shields.io/badge/Photoshop-4CC9F0?style=for-the-badge&logo=adobephotoshop&logoColor=black" />
@@ -95,7 +93,7 @@ An **ECE student** who fell in love with programming and design — I like figur
 
 </div>
 
-<br/>
+<div align="center"><img src="./divider.svg" width="70%"/></div>
 
 ## 🎓 Certifications
 
@@ -129,7 +127,7 @@ An **ECE student** who fell in love with programming and design — I like figur
 
 </div>
 
-<br/>
+<div align="center"><img src="./divider.svg" width="70%"/></div>
 
 <div align="center">
 
